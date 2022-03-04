@@ -4,8 +4,8 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="resources"/>
 	<classpathentry kind="lib" path="lib/logback-core-1.2.5.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.25.jar" sourcepath="C:/Users/elink/AppData/Local/Temp/.org.sf.feeling.decompiler1646005998368/source/slf4j-api-1.7.25-sources.jar"/>
 	<classpathentry kind="lib" path="lib/jcl-over-slf4j-1.7.25.jar"/>
-	<classpathentry kind="lib" path="lib/logback-classic-1.2.5.jar"/>
+	<classpathentry kind="lib" path="lib/logback-classic-1.2.5.jar" sourcepath="C:/Users/elink/AppData/Local/Temp/.org.sf.feeling.decompiler1646355388741/source/logback-classic-1.2.5-sources-1646376402648.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -19,6 +19,8 @@ public class SiftingAppenderTest {
 				executorService.execute(logThread);
 				count++;
 			}
+			
+			Thread.sleep(30 * 1000);
 		}
 		catch(Exception ex) {
 			ex.printStackTrace();
@@ -26,6 +28,7 @@ public class SiftingAppenderTest {
 		finally {
 			executorService.shutdown();
 		}
+		
 	}
 
 }
